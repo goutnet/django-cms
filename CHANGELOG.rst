@@ -34,6 +34,7 @@ Unreleased
 * removed zh and zh_hans translation (keep zh_CN and zh_TW)
 * Cleaned-up unmaintained translations
 * Page changed date added to the Page tree admin actions dropdown
+* Make the width of modal dialog popups configurable through the settings directive `CMS_MODAL_DIALOG_WIDTH``
 
 
 3.8.0 (2020-10-28)
